@@ -14,6 +14,8 @@ DeepSeek-R1 took the world of AI by storm. For the first time, we see a glimpse 
 - Own your data, own your future
 - Be part of the AGI revolution
 
+https://github.com/user-attachments/assets/bef0315b-c1e6-43db-82af-c59b670d8263
+
 ## Installation and setup
 
 **Setup Ollama**:
